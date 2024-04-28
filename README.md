@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![finance.gif]( https://github.com/kandularj/Business-Insights/blob/main/fiance%20view.pngf)
+![finance.gif]( https://github.com/kandularj/Business-Insights/blob/main/fiance%20view.png)
 ## Sales View
 
 ![sales.gif]( https://github.com/kandularj/Business-Insights/blob/main/sales%20view.png)
